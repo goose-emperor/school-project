@@ -30,3 +30,8 @@ h2 {
   top: 40%;
   left: 15%;
 }
+
+#video {
+  border: solid 2px lightgray;
+  border-radius: 20px;
+}
